@@ -1,0 +1,8 @@
+insert into avion (constructeur,modele,unType,nbplaces,unUsage,moteur,performances,autonomie,avionique,photo) values 
+("Diamond Star","DA-40/F-GNJP","VFR de nuit",4,"Voyage, promenade","180 cv Lycoming Injection, allumage electronique Lazar","135 Kt","4h","2 Radios King, GPS Garmin GNS 430, Carte déroulante couleur, 1 Vor, Affichage, Transpondeur mode C, Intercom 4 casques","JP.jpg"),
+("Cessna","172/F-HFPK","VFR de nuit",4,"Voyage, promenade","180 cv Lycoming Injection","110 Kt","5h","G1000, pilote automatique, transpondeur mode S","PK.jpg"),
+("Cessna","172/F-GHFC","VFR de nuit",4,"Voyage, promenade","160 cv Lycoming","110 Kt","4h","2 radio COM/NAV Bendix-King,GPS,Intercom 4 casques, Transpondeur mode S","FC-2.jpg"),
+("Cessna","172/F-GKCO","VFR de nuit",4,"Voyage, promenade","160 cv Lycoming","120 Kt","5h","2 radio COM/NAV, GPS,Intercom 4 casques, Transpondeur mode S, pilote automatique","CO.jpg"),
+("Cessna","152/F-GVRE","VFR nuit, école",2,"Instruction, entraînement, petits voyages","Lycoming O-235-L2C, 4 cylindres à plat, 118 ch à 2750 tr/min","100 Kt","4h","2 radios, 1 VOR, Intercom 2 casques, Transpondeur mode C","RE.jpg"),
+("Amateur","Emeraude CP320/F-PRSZ","Biplace",2,"Instruction, entraînement, petits voyages","Lycoming O-235-L2C, 4 cylindres à plat, 118 ch à 2750 tr/min","110 Kt","?","1 radios, Intercom 2 casques, Transpondeur","SZ.jpg"),
+("CZECH SPORT AIRCRAFT","PS28/F-HZCD et F-HZCE","Biplace",2,"Instruction, entraînement, voyages","ROTAX 912 100 cv","100 Kt","5h","EFIS DYnon Skyview, radio 8.33 transpondeur mode S","PS28.jpg");

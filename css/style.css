@@ -1,0 +1,74 @@
+body{
+    background-image:url("../img/principalsite/fondsite.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    z-index:1;
+}
+
+.jumbotron{
+    opacity: 1; 
+    
+}
+
+h3{
+    color: orange;
+}
+
+.piedpage{
+    background-color:gray;
+    bottom: 0px;
+    height:60px;
+    text-align : center ; 
+    position:fixed;
+    margin:auto;
+    text-align:center;
+    font-weight:bold;
+    width:100%    
+    
+
+    
+}
+
+header{
+    background-color: cyan;
+    background-image: url("../img/principalsite/header.jpg");
+    z-index:1;
+    height:130px;
+  
+    
+}
+
+p1{
+    color:red;
+}
+
+p2{
+    color:limegreen;
+}
+
+.boutons {
+	-moz-box-shadow:inset 0px 39px 0px -24px #9fb4f2;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #9fb4f2;
+	box-shadow:inset 0px 39px 0px -24px #9fb4f2;
+	background-color:#7892c2;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.boutons:hover {
+	background-color:#476e9e;
+}
+.boutons:active {
+	position:relative;
+	top:1px;
+}
